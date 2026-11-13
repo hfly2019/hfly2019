@@ -73,6 +73,7 @@
 | Project | Description | Stack / Category |
 | :--- | :--- | :--- |
 | ⌚ **[BridgeFix](https://github.com/hfly2019/BridgeFix)** | Native runtime category patch resolving iOS 15 Bridge pairing crash with watchOS 9+. | `Objective-C` `WebKit` `arm64e` `TrollStore` |
+| 📋 **[Clipboard Auto-Append](https://github.com/hfly2019/obsidian-clipboard-auto-append)** | High-efficiency Obsidian plugin to automatically stream clipboard contents into vault notes. | `JavaScript` `Obsidian API` `Knowledge Capture` |
 | 🌐 **[hfly2019.github.io](https://github.com/hfly2019/hfly2019.github.io)** | Personal digital cyberdeck, reverse engineering research logs & technical archives. | `Jekyll` `Markdown` `Architecture` |
 | 🤖 **[Folo-Ollama](https://github.com/hfly2019/Folo-Ollama)** | Local offline LLM pipeline and autonomous assistant integrations. | `Python` `Ollama` `Local AI` |
 | 📚 **[Obsidian PKM Lab](https://github.com/hfly2019)** | High-density personal knowledge graph with automated AI distillation (Memos AI Sync). | `Knowledge Graph` `Automation` |
